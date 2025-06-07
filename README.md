@@ -101,25 +101,6 @@ This is my **first ever web development project** - a labor of love dedicated to
 
 This project holds special emotional value as my first venture into web development. Every line of code, every image, and every design choice represents my love for Karnataka and my journey into programming. The website aims to showcase the incredible diversity and beauty of Karnataka to the world.
 
-## 🤝 Contributing
-
-While this is a personal project, suggestions and feedback are always welcome! Feel free to:
-- Report bugs or issues
-- Suggest new destinations to feature
-- Recommend improvements to user experience
-- Share your own Karnataka travel experiences
-
-## 📞 Contact
-
-For any queries about Karnataka tourism or this project, feel free to reach out through the contact form on the website.
-
-## 🙏 Acknowledgments
-
-- Karnataka Tourism Department for inspiration
-- Local photographers for beautiful destination images
-- The vibrant culture and people of Karnataka
-- Everyone who supported my first coding journey
-
 ---
 
 **Made with ❤️ for Karnataka | ನಮ್ಮ ನಾಡು ನಮ್ಮ ಹೆಮ್ಮೆ (Our Land, Our Pride)**
